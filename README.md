@@ -1,6 +1,6 @@
 ### Before You Begin
 
-1. Create a new GitHub repo called `Word Guess Game` or `Psychic-Game`, in accordance with the assignment you choose to complete. Then, clone it to your computer.
+1. Create a new GitHub repo called `Psychic-Game`, in accordance with the assignment you choose to complete. Then, clone it to your computer.
 
 2. Inside your local git repository, create an `index.html`.
 
